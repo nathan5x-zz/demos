@@ -27,7 +27,7 @@ function LoginControl() {
                             <div class="form-fields"> \
                                 <label class="title"> User Login </label> \
                                 <div class="form-field"> \
-                                    <input type="text" class="input-text username" name="username" placeholder="Apple ID"/> \
+                                    <input type="text" class="input-text username" name="username" placeholder="User ID"/> \
                                 </div> \
                                 <div class="form-field"> \
                                     <input type="password" class="input-text" name="password" placeholder="Password"/> \
